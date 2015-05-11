@@ -1,0 +1,9 @@
+F:\ASP-DotNet\AccountOperationApp\AccountOperationApp\bin\Debug\AccountOperationApp.exe.config
+F:\ASP-DotNet\AccountOperationApp\AccountOperationApp\bin\Debug\AccountOperationApp.exe
+F:\ASP-DotNet\AccountOperationApp\AccountOperationApp\bin\Debug\AccountOperationApp.pdb
+F:\ASP-DotNet\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.csprojResolveAssemblyReference.cache
+F:\ASP-DotNet\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.Form1.resources
+F:\ASP-DotNet\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.Properties.Resources.resources
+F:\ASP-DotNet\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.csproj.GenerateResource.Cache
+F:\ASP-DotNet\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.exe
+F:\ASP-DotNet\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.pdb
